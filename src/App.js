@@ -3,7 +3,7 @@ import './App.css';
 import UserInput from './Components/UserInput/UserInput';
 import UserOutput from './Components/UserOutput/UserOutput';
 
-class App extends Component {
+class App extends Component  {
   state ={
     username : "Richal",
   };
