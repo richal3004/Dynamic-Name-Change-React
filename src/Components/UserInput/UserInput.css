@@ -1,0 +1,13 @@
+input{
+    padding : 5px;
+    margin: 2px;
+    /* border: none; */
+    border: 2px solid rgb(51, 201, 156);
+    outline: none;
+}
+.heading{
+    text-align: center;
+    color: rgb(86, 8, 158);
+    font-weight: bold;
+    text-transform:uppercase;
+}
